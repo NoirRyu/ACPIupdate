@@ -48,6 +48,3 @@ Set id = 543C031A-4CB6-4897-BFFE-4B485768A8AD
 
 
 
-# 최종 패널 상태 
-![Result](image/JD9161.jpg) 
-
